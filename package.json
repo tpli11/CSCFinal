@@ -2,9 +2,9 @@
   "name": "csc-final",
   "version": "1.0.0",
   "description": "CSC Final project",
-  "main": "index.html",
+  "main": "scripts.js",
   "scripts": {
-    "start": "node index.html"
+    "start": "node scripts.js"
   },
   "repository": {
     "type": "git",
