@@ -1,0 +1,19 @@
+{
+  "name": "CSC-Final",
+  "version": "1.0.0",
+  "description": "Final project",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "node scripts.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodejs",
+    "hello-world"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
