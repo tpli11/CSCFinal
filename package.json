@@ -2,7 +2,7 @@
   "name": "csc-final",
   "version": "1.0.0",
   "description": "CSC Final project",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/tpli11/CSCFinal.git"
   },
-  "keywords": [
-    "styles"
-  ],
   "author": "Tanner",
   "license": "ISC",
   "bugs": {
