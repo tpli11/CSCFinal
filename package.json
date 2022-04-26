@@ -1,19 +1,22 @@
 {
-  "name": "CSC-Final",
+  "name": "csc-final",
   "version": "1.0.0",
-  "description": "Final project",
-  "main": "scripts.js",
+  "description": "CSC Final project",
+  "main": "index.js",
   "scripts": {
-    "start": "node scripts.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpli11/CSCFinal.git"
   },
   "keywords": [
-    "node",
-    "express",
-    "nodejs",
-    "hello-world"
+    "styles"
   ],
+  "author": "Tanner",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/tpli11/CSCFinal/issues"
+  },
+  "homepage": "https://github.com/tpli11/CSCFinal#readme"
 }
