@@ -4,9 +4,7 @@
   "description": "CSC Final project",
   "main": "index.html",
   "scripts": {
-    "start": "node index.html",
-		"dev": "nodemon",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.html"
   },
   "repository": {
     "type": "git",
