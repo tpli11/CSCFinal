@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "CSC Final project",
     "scripts": {
-      "start": "node server.js"
+      "start": "server.js"
     },
     "repository": {
       "type": "git",
