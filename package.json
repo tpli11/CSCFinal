@@ -2,10 +2,10 @@
     "name": "tipcalculator",
     "version": "1.0.0",
     "description": "A full stack web app ",
-    "main": "script.js",
+    "main": "index.html",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node script.js"
+      "start": "index.html"
     },
     "author": "Kamil",
     "license": "ISC",
